@@ -147,7 +147,7 @@ IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages
 2403–2412, 2019.
 
 # Licence
-Copyright (c) 2021 Toyota Motor Europe
+Copyright (c) 2021 Toyota Motor Europe<br>
 Patent Pending. All rights reserved.
 
 This work is licensed under a [Creative Commons
