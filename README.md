@@ -1,8 +1,6 @@
 # Road Anomaly Detection by Partial Image Reconstruction with Segmentation Coupling 
 Pytorch implementation of our ICCV 2021 paper with the pre-trained model used to generate the results presented in the publication.
 
-**Follow up (new) version of this method is available [HERE](https://github.com/vojirt/DaCUP)**
-
 **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Vojir_Road_Anomaly_Detection_by_Partial_Image_Reconstruction_With_Segmentation_Coupling_ICCV_2021_paper.pdf)
 | [Supplementary
 Video](https://cmp.felk.cvut.cz/~vojirtom/data/ICCV2021_Supplementary.mp4)** 
@@ -18,6 +16,8 @@ If you use this work please cite:
     pages     = {15651-15660}
 }
 ```
+## Update 🔥🔥
+- **2023.04.14 💥 Follow up (new) version of this method is available [HERE](https://github.com/vojirt/DaCUP)**
 
 ## Overview
 
