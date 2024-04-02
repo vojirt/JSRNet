@@ -106,7 +106,7 @@ There are two pre-trained models:
    publication was trained using the parameters provided in the
    `parameters.yaml` configuration file. It used CityScapes datasets for
    training and LaF training data for validation.  The pre-trained model is
-   available on request.
+   [available here](https://drive.google.com/file/d/1uY2hC1zOGpacbCKD0vyKhWcxmrRafhWx/view?usp=sharing).
 
 ## Performance 
 
